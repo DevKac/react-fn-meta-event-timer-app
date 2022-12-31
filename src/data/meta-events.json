@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "Event1",
+    "location": "Warsaw",
+    "startTime": "00:00:00",
+    "endTime": "01:00:00"
+  },
+  {
+    "id": 2,
+    "name": "Event2",
+    "location": "Gdańsk",
+    "startTime": "00:00:00",
+    "endTime": "00:15:00"
+  },
+  {
+    "id": 3,
+    "name": "Event3",
+    "location": "Poznań",
+    "startTime": "02:30:00",
+    "endTime": "06:00:00"
+  },
+  {
+    "id": 4,
+    "name": "Event4",
+    "location": "Kraków",
+    "startTime": "08:00:00",
+    "endTime": "09:30:00"
+  },
+  {
+    "id": 5,
+    "name": "Event5",
+    "location": "Toruń",
+    "startTime": "09:00:00",
+    "endTime": "09:45:00"
+  },
+  {
+    "id": 6,
+    "name": "Event6",
+    "location": "Warsaw",
+    "startTime": "10:00:00",
+    "endTime": "10:15:00"
+  },
+  {
+    "id": 7,
+    "name": "Event7",
+    "location": "Gdańsk",
+    "startTime": "11:00:00",
+    "endTime": "11:30:00"
+  },
+  {
+    "id": 8,
+    "name": "Event8",
+    "location": "Poznań",
+    "startTime": "11:30:00",
+    "endTime": "13:00:00"
+  },
+  {
+    "id": 9,
+    "name": "Event9",
+    "location": "Kraków",
+    "startTime": "12:00:00",
+    "endTime": "12:30:00"
+  },
+  {
+    "id": 10,
+    "name": "Event10",
+    "location": "Toruń",
+    "startTime": "14:00:00",
+    "endTime": "14:45:00"
+  },
+  {
+    "id": 11,
+    "name": "Event11",
+    "location": "Warsaw",
+    "startTime": "14:05:00",
+    "endTime": "14:10:00"
+  },
+  {
+    "id": 12,
+    "name": "Event12",
+    "location": "Gdańsk",
+    "startTime": "14:15:00",
+    "endTime": "14:20:00"
+  },
+  {
+    "id": 13,
+    "name": "Event13",
+    "location": "Poznań",
+    "startTime": "14:25:00",
+    "endTime": "14:30:00"
+  },
+  {
+    "id": 14,
+    "name": "Event14",
+    "location": "Kraków",
+    "startTime": "14:35:00",
+    "endTime": "14:40:00"
+  },
+  {
+    "id": 15,
+    "name": "Event15",
+    "location": "Toruń",
+    "startTime": "14:45:00",
+    "endTime": "14:50:00"
+  },
+  {
+    "id": 16,
+    "name": "Event16",
+    "location": "Warsaw",
+    "startTime": "15:00:00",
+    "endTime": "15:15:00"
+  },
+  {
+    "id":17,
+    "name": "Event17",
+    "location": "Gdańsk",
+    "startTime": "16:00:00",
+    "endTime": "16:30:00"
+  },
+  {
+    "id": 18,
+    "name": "Event18",
+    "location": "Poznań",
+    "startTime": "16:30:00",
+    "endTime": "18:00:00"
+  },
+  {
+    "id": 19,
+    "name": "Event19",
+    "location": "Kraków",
+    "startTime": "17:00:00",
+    "endTime": "17:30:00"
+  },
+  {
+    "id": 20,
+    "name": "Event20",
+    "location": "Toruń",
+    "startTime": "19:00:00",
+    "endTime": "19:45:00"
+  }
+]
